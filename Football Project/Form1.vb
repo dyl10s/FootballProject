@@ -90,6 +90,8 @@
         pStart.Visible = False
         pDraft.Visible = True
 
+        lblCurrentUser.Text = "Current User: Player " + currentPlayer.ToString() + "    Current round " + currentRound.ToString() + " / " + draftRounds.ToString()
+
     End Sub
 
     Private Sub btnBrowse_Click(sender As Object, e As EventArgs) Handles btnBrowse.Click
@@ -138,8 +140,7 @@
             pDraft.Visible = False
         End If
 
-        lblCurrentUser.Text = "Current User: Player " + currentPlayer.ToString()
-
+        lblCurrentUser.Text = "Current User: Player " + currentPlayer.ToString() + "    Current round " + currentRound.ToString() + " / " + draftRounds.ToString()
     End Sub
 
     Public Sub calculateWinner()
