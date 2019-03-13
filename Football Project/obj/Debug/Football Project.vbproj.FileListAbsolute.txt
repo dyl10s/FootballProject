@@ -1,0 +1,13 @@
+F:\VB Projects\Football Project\Football Project\bin\Debug\Football Project.exe.config
+F:\VB Projects\Football Project\Football Project\bin\Debug\Football Project.exe
+F:\VB Projects\Football Project\Football Project\bin\Debug\Football Project.pdb
+F:\VB Projects\Football Project\Football Project\bin\Debug\Football Project.xml
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football Project.vbprojAssemblyReference.cache
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football_Project.frmDraft.resources
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football_Project.Resources.resources
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football Project.vbproj.GenerateResource.cache
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football Project.vbproj.CoreCompileInputs.cache
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football Project.exe
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football Project.xml
+F:\VB Projects\Football Project\Football Project\obj\Debug\Football Project.pdb
+F:\VB Projects\Football Project\Football Project\bin\Debug\Draft.txt
